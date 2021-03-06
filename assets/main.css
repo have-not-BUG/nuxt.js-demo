@@ -1,0 +1,20 @@
+/*全局过渡样式*/
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.5s;
+}
+.page-enter,
+.page-leave-active {
+  opacity: 0;
+}
+/*局部页面过渡样式样式*/
+
+.test-enter-active,
+.test-leave-active {
+  transition: opacity 0.5s;
+  font-size: 20px;
+}
+.test-enter,
+.test-leave-active {
+  opacity: 0;
+}
