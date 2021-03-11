@@ -1,4 +1,4 @@
-# myapp
+# nuxt.js-demo
 
 ## Build Setup
 
